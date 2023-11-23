@@ -32,18 +32,10 @@ Pytorch
 Pytorch
 Pandas
 
-<table>
-  <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-  </tr>
-  <tr>
-    <td> <img src="![Python-logo-notext svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/0b030eed-2d67-4f25-830a-01bc2ba87c35)" width=100 height=150></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=100 height=150></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=100 height=150></td>
-  </tr>
- </table>
+<img align="left" src="![fastapi](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/c355c4df-157f-41d5-a465-dc9c7e4784af)" title="Angular" hspace="20"/>
+<img align="left" src="![Docker_logo svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/6499ece3-e9b3-45b7-8b5e-c3a881c9305c)" hspace="20"/>
+<img align="left" src="./documentation/images/C.png" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
+<br/><br/><br/><br/><br/>
 
 
 
