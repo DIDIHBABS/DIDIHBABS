@@ -1,4 +1,4 @@
-
+![fastapi](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/c355c4df-157f-41d5-a465-dc9c7e4784af)
 
 ## About Me
 
@@ -13,9 +13,18 @@ Hello there! I'm a Machine Learning Engineer, a zealous MLOps enthusiast, and a 
 ------------------------------------------------
 ### My Skills 
 
+![Python-logo-notext svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/0b030eed-2d67-4f25-830a-01bc2ba87c35)
+![Kubernetes_logo_without_workmark svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/7ae75b2b-00f5-4eab-a75b-3c4a248ef3c0)
+![Go-Logo_LightBlue](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/b1a4024c-29a7-4ba9-899c-3bbdc21280e7)
+![Docker_logo svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/6499ece3-e9b3-45b7-8b5e-c3a881c9305c)
+![Ansible_logo svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/6b4c3f95-94f5-4c54-ac67-e8981e52b9fa)
+![images](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/1d2801d3-688a-4a5d-9c9d-204866f1a283)
+![download](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/eabf1d87-60e4-4e6a-b9f7-f864bc4b0699)
+![Tensorflow_logo svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/1dc1f72e-b5b7-43ef-868d-ef036231363a)
+![Uploadin<svg fill="none" height="2500" width="2500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 154"><circle cx="77" cy="77" fill="#05998b" r="77"/><path d="M81.375 18.667l-38.75 70H77.5l-3.875 46.666 38.75-70H77.5z" fill="#fff"/></svg>g fastapi.svg…]()
+![1200px-Icons8_flat_linux svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/db2f5ed8-d42d-4c1c-91c6-b60c62950021)
 
-[Alt text](image link)
-Python ![Go-Logo_LightBlue](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/5b5c8785-4016-45de-b6c2-15ddb6a8c55d)
+
 
 Pytorch
 Pandas
