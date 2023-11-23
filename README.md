@@ -32,23 +32,18 @@ Pytorch
 Pytorch
 Pandas
 
-  <style>
-.container {
-  display: flex;
-  align-items: center; 
- padding-left: 10px;
-}
-img{
-  margin-left: 15px ;
-  margin-right: 15px;
-}
- 
-    <div class="container">
-      <div class="image"> <img src="![Python-logo-notext svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/0b030eed-2d67-4f25-830a-01bc2ba87c35)" alt="This is my image." height="850px"/> </div> 
-      <div class="image"> <img src="![Go-Logo_LightBlue](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/b1a4024c-29a7-4ba9-899c-3bbdc21280e7)" alt="This is my second image." height="850px"/> </div> 
-     <div class="image"> <img src="![Uploadin<svg fill="none" height="2500" width="2500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 154"><circle cx="77" cy="77" fill="#05998b" r="77"/><path d="M81.375 18.667l-38.75 70H77.5l-3.875 46.666 38.75-70H77.5z" fill="#fff"/></svg>g fastapi.svg…]()" alt="My third image." height="850px"/> </div> 
-    </div>
- 
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 
