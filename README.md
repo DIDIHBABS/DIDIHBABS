@@ -39,7 +39,7 @@ Pandas
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="[Python-logo-notext svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/0b030eed-2d67-4f25-830a-01bc2ba87c35)" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
   </tr>
