@@ -12,7 +12,7 @@ Hello there! I'm a Machine Learning Engineer, a zealous MLOps enthusiast, and a 
 ------------------------------------------------
 ### My Skills 
 
- <img align="right" alt="Coding" width="400" src="![Python-logo-notext svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/0b030eed-2d67-4f25-830a-01bc2ba87c35)" >
+ <img align="right" alt="Coding" width="200" src="![Python-logo-notext svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/0b030eed-2d67-4f25-830a-01bc2ba87c35)" >
 
 Pytorch
 ![images](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/1d2801d3-688a-4a5d-9c9d-204866f1a283)
@@ -27,6 +27,36 @@ Pytorch
 ![Uploadin<svg fill="none" height="2500" width="2500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 154"><circle cx="77" cy="77" fill="#05998b" r="77"/><path d="M81.375 18.667l-38.75 70H77.5l-3.875 46.666 38.75-70H77.5z" fill="#fff"/></svg>g fastapi.svg…]()
 ![1200px-Icons8_flat_linux svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/db2f5ed8-d42d-4c1c-91c6-b60c62950021)
 ![fastapi](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/c355c4df-157f-41d5-a465-dc9c7e4784af)
+
+
+Pytorch
+Pandas
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+.container {
+  display: flex;
+  align-items: center; 
+ padding-left: 10px;
+}
+img{
+  margin-left: 15px ;
+  margin-right: 15px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image"> <img src="![Python-logo-notext svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/0b030eed-2d67-4f25-830a-01bc2ba87c35)" alt="This is my image." height="850px"/> </div> 
+      <div class="image"> <img src="![Go-Logo_LightBlue](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/b1a4024c-29a7-4ba9-899c-3bbdc21280e7)" alt="This is my second image." height="850px"/> </div> 
+     <div class="image"> <img src="![Uploadin<svg fill="none" height="2500" width="2500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 154"><circle cx="77" cy="77" fill="#05998b" r="77"/><path d="M81.375 18.667l-38.75 70H77.5l-3.875 46.666 38.75-70H77.5z" fill="#fff"/></svg>g fastapi.svg…]()" alt="My third image." height="850px"/> </div> 
+    </div>
+  </body>
+</html>
+
+
+
 
 
 
