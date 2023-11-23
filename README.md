@@ -39,8 +39,7 @@ Pandas
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="![Ansible_logo svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/6b4c3f95-94f5-4c54-ac67-e8981e52b9fa)
-" width=100 height=150></td>
+    <td> <img src="![Python-logo-notext svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/0b030eed-2d67-4f25-830a-01bc2ba87c35)" width=100 height=150></td>
     <td><img src="screenshots/Screenshot_1582745125.png" width=100 height=150></td>
     <td><img src="screenshots/Screenshot_1582745139.png" width=100 height=150></td>
   </tr>
