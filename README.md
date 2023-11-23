@@ -1,7 +1,7 @@
 
 
-### About Me
-
+## About Me
+------------------------------------------------
 Hello there! I'm a Machine Learning Engineer, a zealous MLOps enthusiast, and a skilled Data Scientist. My expertise lies in the art of designing and developing AI models that are not only robust and scalable but also perfectly tailored to meet the unique needs of businesses.
 
 🤖 Since my journey began in 2016, my passion has been deeply rooted in Artificial Intelligence and Holography. I am devoted to the challenge of converting complex AI theories into practical, meaningful, and impactful products that make a real difference in the world.
