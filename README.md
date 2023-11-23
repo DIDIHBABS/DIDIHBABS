@@ -14,16 +14,9 @@ Hello there! I'm a Machine Learning Engineer, a zealous MLOps enthusiast, and a 
 
  <img align="right" alt="Coding" width="400" src="![Python-logo-notext svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/0b030eed-2d67-4f25-830a-01bc2ba87c35)" >
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="![Go-Logo_LightBlue](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/b1a4024c-29a7-4ba9-899c-3bbdc21280e7)" target="blank"><img align="center"  height="30" width="40" /></a>
-<a href="![images](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/1d2801d3-688a-4a5d-9c9d-204866f1a283)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
-
- 
+Pytorch
+![images](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/1d2801d3-688a-4a5d-9c9d-204866f1a283)
+![Go-Logo_LightBlue](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/b1a4024c-29a7-4ba9-899c-3bbdc21280e7)
 ![Kubernetes_logo_without_workmark svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/7ae75b2b-00f5-4eab-a75b-3c4a248ef3c0)
 
 ![Docker_logo svg](https://github.com/DIDIHBABS/DIDIHBABS/assets/32671272/6499ece3-e9b3-45b7-8b5e-c3a881c9305c)
