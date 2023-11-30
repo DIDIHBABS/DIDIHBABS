@@ -10,6 +10,6 @@ Hello there! I'm a Machine Learning Engineer, an MLOps enthusiast, and a Data Sc
 👥 Collaboration is key in my book. I'm always excited to team up on projects that dive deep into advanced Machine Learning, Data Analysis, and AI-driven applications. If your project resonates with my skills and passions, I'd love to explore how we can work together. Don't hesitate to reach out and share your ideas!
 
 
-------------------------------------------------
 
-
+  
+  ------------------------------------------------
